@@ -1,0 +1,30 @@
+# Compiled binaries
+*.o
+*.out
+talker
+listener
+pipe_comm
+a.out
+
+# PDFs (assignment submissions)
+*.pdf
+
+# Archives
+*.zip
+*.tar
+*.tar.gz
+
+# LibreOffice/OpenOffice
+*.odt
+*.ods
+
+# Logs
+*.log
+.log
+
+# Temporary files
+*.tmp
+*~
+
+# Test data
+test_files/
